@@ -1,1 +1,1 @@
-print("No comment: quotes make the # harmless.")
+print("No comment: quotes make the # harmless with ppy.")
