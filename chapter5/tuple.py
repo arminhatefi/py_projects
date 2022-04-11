@@ -31,4 +31,6 @@ marx_tuple1 = ['Groucho', 'Chico', 'Harpo']
 marx_tuple1.reverse()
 print(marx_tuple1)
 marx_tuple1.append('Zeppo')
-print()
+
+marx_tuple1.insert(2, 'Gummo')
+print(marx_tuple1)
