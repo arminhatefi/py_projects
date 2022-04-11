@@ -82,7 +82,12 @@ marx_tuple1.pop(3)
 print(marx_tuple1)
 
 # Delete all item with clear()
-work_quotes = ['hard', 'questions', 'quick']
+work_quotes = ['hard', 'questions', 'quick', 'hard']
 work_quotes
 work_quotes.clear()
 print(work_quotes)
+
+# Count occureces with count()
+marx_tuple1.count('Harpo')
+print(marx_tuple1.count('Harpo'))
+
