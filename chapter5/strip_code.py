@@ -4,3 +4,4 @@ print(lower_cased)
 
 stripped = original.strip()
 print(stripped)
+
