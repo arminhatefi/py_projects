@@ -91,3 +91,9 @@ print(work_quotes)
 marx_tuple1.count('Harpo')
 print(marx_tuple1.count('Harpo'))
 
+work_quotes = ['hard', 'questions', 'quick', 'hard']
+print('hard' in work_quotes)
+print(work_quotes.index('hard'))
+
+a = {1:1,2:3,3:4}
+print(a[3])
